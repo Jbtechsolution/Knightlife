@@ -1,2 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="pbskids.us",tvg-name="pbs kids" tvg-logo="https://cms-tc.pbskids.org/globalresources/resources/img/pbs-kids-logo.svg?fhash=52b8c6e"group-title="Channels",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="Cnn.us",CNN
+https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-id="99951247" tvg-name="Saved by the Bell" tvg-logo="https://image.xumo.com/v1/channels/channel/99951247/168x168.png?type=color_onBlack" group-title="Comedy",Saved by the Bell
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951247/hls/master.m3u8?ads.xumo_channelId=99951247&ads.asnw=169843&ads.afid=380750681&ads.sfid=19316459&ads.csid=xumo_web_NBCUSavedBytheBell_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=0c9a1963-4ddc-4b6f-8569-94d724b292e8&ads._fw_vcid2=512116:0c9a1963-4ddc-4b6f-8569-94d724b292e8&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3942&ads.xumo_contentName=NBCUSavedBytheBell&ads.xumo_providerId=3942&ads.xumo_providerName=NBCUSavedBytheBell&ads.channelId=99951247&ads._fw_ifa_type=
+
+
+#EXTINF:-1 tvg-logo="https://www.hgptv.com/wp-content/uploads/2017/12/HGPTV-png-logo-Main.png",HGPTV Guyana
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/index.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera.uk",Al Jazeera
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/28049a_75d96d0033b1446aa206a9f4ffdeb04a~mv2.png/v1/fill/w_400,h_302,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MTV%20LOGO%20HD.png",MTV Guyana
+https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtv8.net/wp-content/uploads/logowigth8_00298-Copy.png",DTV-8 Guyana
+https://davestv8.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="rt.us",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cgtn.us",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+#EXTINF:-1 tvg-id="692114" tvg-logo="https://canvas-lb.tubitv.com/opts/x_rvSRytPq3i6A==/559dcbc7-ce1e-4b6e-8f21-ef614bf9efca/CHgQeDoFMS4xLjhAAQ==" group-title="Comedy",LOL! Network
+https://live-manifest.production-public.tubi.io/live/79965fb8-680b-4e32-aa2a-4e93851cb4e2/playlist.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM   (EAST)", FREEFORM West
+  http://fl25.moveonjoy.com/FREE_FORM/index.m3u8
