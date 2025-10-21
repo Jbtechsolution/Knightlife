@@ -1,10 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="pbskids.us",tvg-name="pbs kids" tvg-logo="https://cms-tc.pbskids.org/globalresources/resources/img/pbs-kids-logo.svg?fhash=52b8c6e"group-title="Channels",PBS Kids
+
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
+
 #EXTINF:-1 tvg-id="BBCNews.uk",BBC News
+
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
 
 #EXTINF:-1 tvg-id="Cnn.us",CNN
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
@@ -34,7 +38,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="692114" tvg-logo="https://canvas-lb.tubitv.com/opts/x_rvSRytPq3i6A==/559dcbc7-ce1e-4b6e-8f21-ef614bf9efca/CHgQeDoFMS4xLjhAAQ==" group-title="Comedy",LOL! Network
 https://live-manifest.production-public.tubi.io/live/79965fb8-680b-4e32-aa2a-4e93851cb4e2/playlist.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM   (EAST)", FREEFORM West
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM   (EAST)", Freeform
   http://fl25.moveonjoy.com/FREE_FORM/index.m3u8
 
 
