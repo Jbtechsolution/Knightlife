@@ -199,55 +199,155 @@ https://tvpass.org/live/DiscoveryFamily/sd
 
 
 #EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="Live",Discovery Life Channel
+
 https://tvpass.org/live/DiscoveryLife/sd
+
+
+
 #EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" group-title="Live",Disney Eastern Feed
+
 https://tvpass.org/live/DisneyChannelEast/sd
+
+
+
 #EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" group-title="Live",Disney Junior USA East
+
 https://tvpass.org/live/DisneyJuniorEast/sd
+
+
+
 #EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" group-title="Live",Disney XD USA Eastern Feed
+
 https://tvpass.org/live/DisneyXDEast/sd
+
+
+
 #EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" group-title="Live",E! Entertainment USA Eastern Feed
+
 https://tvpass.org/live/EEast/sd
+
+
+
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="Live",ESPN
+
 https://tvpass.org/live/ESPN/sd
+
+
+
 #EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" group-title="Live",ESPN Deportes
+
 https://tvpass.org/live/espn-deportes/sd
+
+
+
 #EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" group-title="Live",ESPN News
+
 https://tvpass.org/live/ESPNews/sd
+
+
+
 #EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" group-title="Live",ESPN U
+
 https://tvpass.org/live/ESPNU/sd
+
+
+
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" group-title="Live",ESPN2
+
 https://tvpass.org/live/ESPN2/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana" group-title="Live",Fanduel Sports Indiana
+
 https://tvpass.org/live/fanduel-sports-indiana/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit" group-title="Live",Fanduel Sports Network Detroit
+
 https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida" group-title="Live",Fanduel Sports Network Florida
+
 https://tvpass.org/live/fanduel-sports-network-florida/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes" group-title="Live",Fanduel Sports Network Great Lakes
+
 https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North" group-title="Live",Fanduel Sports Network North
+
 https://tvpass.org/live/fanduel-sports-network-north/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland" group-title="Live",Fanduel Sports Network Ohio Cleveland
+
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma" group-title="Live",Fanduel Sports Network Oklahoma
+
 https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego" group-title="Live",Fanduel Sports Network San Diego
+
 https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal" group-title="Live",Fanduel Sports Network Socal
+
 https://tvpass.org/live/fanduel-sports-network-socal/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas" group-title="Live",Fanduel Sports Network South Carolinas
+
 https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee" group-title="Live",Fanduel Sports Network South Tennessee
+
 https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West" group-title="Live",Fanduel Sports Network West
+
 https://tvpass.org/live/fanduel-sports-network-west/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin" group-title="Live",Fanduel Sports Network Wisconsin
+
 https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia" group-title="Live",Fanduel Sports Southeast Georgia
+
 https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina" group-title="Live",Fanduel Sports Southeast North Carolina
+
 https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
+
+
+
 #EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina" group-title="Live",Fanduel Sports Southeast South Carolina
 https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
 #EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville" group-title="Live",Fanduel Sports Southeast Tennessee Nashville
@@ -502,26 +602,16 @@ https://tvpass.org/live/NBA14/sd
 https://tvpass.org/live/TNTEast/sd
 #EXTINF:-1 tvg-id="" tvg-name="Detroit Pistons @ Chicago Bulls (10/22 8:10 PM ET)" group-title="NBA",Detroit Pistons @ Chicago Bulls (10/22 8:10 PM ET)
 https://tvpass.org/live/NBA04/sd
-#EXTINF:-1 tvg-id="" tvg-name="New Orleans Pelicans @ Memphis Grizzlies (10/22 8:10 PM ET)" group-title="NBA",New Orleans Pelicans @ Memphis Grizzlies (10/22 8:10 PM ET)
-https://tvpass.org/live/NBA15/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Wizards @ Milwaukee Bucks (10/22 8:10 PM ET)" group-title="NBA",Washington Wizards @ Milwaukee Bucks (10/22 8:10 PM ET)
-https://tvpass.org/live/NBA16/sd
-#EXTINF:-1 tvg-id="" tvg-name="Montréal Canadiens @ Calgary Flames (10/22 8:30 PM ET)" group-title="NHL",Montréal Canadiens @ Calgary Flames (10/22 8:30 PM ET)
-https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Missouri State Bears @ New Mexico State Aggies (10/22 9:00 PM ET)" group-title="NCAAF",Missouri State Bears @ New Mexico State Aggies (10/22 9:00 PM ET)
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Clippers @ Utah Jazz (10/22 9:10 PM ET)" group-title="NBA",Los Angeles Clippers @ Utah Jazz (10/22 9:10 PM ET)
-https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Dallas Mavericks (10/22 9:40 PM ET)" group-title="NBA",San Antonio Spurs @ Dallas Mavericks (10/22 9:40 PM ET)
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Sacramento Kings @ Phoenix Suns (10/22 10:10 PM ET)" group-title="NBA",Sacramento Kings @ Phoenix Suns (10/22 10:10 PM ET)
-https://tvpass.org/live/NBA18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Timberwolves @ Portland Trail Blazers (10/22 10:10 PM ET)" group-title="NBA",Minnesota Timberwolves @ Portland Trail Blazers (10/22 10:10 PM ET)
-https://tvpass.org/live/NBA17/sd
+#EXTINF:-1 tvg-id="" tvg-name="New Orleans Pelicans @ Memphis Grizzlies (10/22 8:10 PM ET)" group-title="NBA",New Orleans Pelicans @ M
+
+
+
 
 #EXTINF:-1 tvg-id="pbskids.us",tvg-name="pbs kids" tvg-logo="https://cms-tc.pbskids.org/globalresources/resources/img/pbs-kids-logo.svg?fhash=52b8c6e"group-title="Channels",PBS Kids
 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="BBCNews.uk",BBC News
@@ -530,27 +620,41 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 
 
 #EXTINF:-1 tvg-id="Cnn.us",CNN
+
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="99951247" tvg-name="Saved by the Bell" tvg-logo="https://image.xumo.com/v1/channels/channel/99951247/168x168.png?type=color_onBlack" group-title="Comedy",Saved by the Bell
 
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951247/hls/master.m3u8?ads.xumo_channelId=99951247&ads.asnw=169843&ads.afid=380750681&ads.sfid=19316459&ads.csid=xumo_web_NBCUSavedBytheBell_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=0c9a1963-4ddc-4b6f-8569-94d724b292e8&ads._fw_vcid2=512116:0c9a1963-4ddc-4b6f-8569-94d724b292e8&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3942&ads.xumo_contentName=NBCUSavedBytheBell&ads.xumo_providerId=3942&ads.xumo_providerName=NBCUSavedBytheBell&ads.channelId=99951247&ads._fw_ifa_type=
 
 
+
 #EXTINF:-1 tvg-logo="https://www.hgptv.com/wp-content/uploads/2017/12/HGPTV-png-logo-Main.png",HGPTV Guyana
 
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="aljazeera.uk",Al Jazeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/28049a_75d96d0033b1446aa206a9f4ffdeb04a~mv2.png/v1/fill/w_400,h_302,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MTV%20LOGO%20HD.png",MTV Guyana
 
 https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="https://dtv8.net/wp-content/uploads/logowigth8_00298-Copy.png",DTV-8 Guyana
 
 https://davestv8.com/hls/stream.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="rt.us",RT News
@@ -558,36 +662,15 @@ https://davestv8.com/hls/stream.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="cgtn.us",CGTN
 
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
 
 
 #EXTINF:-1 tvg-id="692114" tvg-logo="https://canvas-lb.tubitv.com/opts/x_rvSRytPq3i6A==/559dcbc7-ce1e-4b6e-8f21-ef614bf9efca/CHgQeDoFMS4xLjhAAQ==" group-title="Comedy",LOL! Network
 
 https://live-manifest.production-public.tubi.io/live/79965fb8-680b-4e32-aa2a-4e93851cb4e2/playlist.m3u8
 
-
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM   (EAST)", Freeform
-  http://fl25.moveonjoy.com/FREE_FORM/index.m3u8
-
-
-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS (WCBS)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="Local TV", CBS 2
-
-https://e5.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8?token=5N5kXY3R-t-s1JxetIQH4g&expires=1761159682&user_id=QnVaRVpIRXZuWUdPbGg5eEl4TWpCTUM4V1FMeks5Ym00bXBGa3hjUQ==
-
-
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1", VH1
-
-https://v16.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=UVwePLm2qxWARAmQi2tZ1g&expires=1761159050&user_id=QnVaRVpIRXZuWUdPbGg5eEl4TWpCTUM4V1FMeks5Ym00bXBGa3hjUQ==
-
-
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TBS.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" tvg-name="TBS", TBS
-
-https://e3.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8?token=L2T6q2YQlnrgU5_04UDXXA&expires=1761159135&user_id=QnVaRVpIRXZuWUdPbGg5eEl4TWpCTUM4V1FMeks5Ym00bXBGa3hjUQ==
-
-
-#EXTINF:-1  tvg-name="The CW (WPIX New York) SD" tvg-id="wpix-new-york-superstation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cw-ca.png?raw=true" group-title="TheTVApp",PIX11
-
-https://v16.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8?token=Z0xAbldaogZzLQVi93a4gA&expires=1761159216&user_id=QnVaRVpIRXZuWUdPbGg5eEl4TWpCTUM4V1FMeks5Ym00bXBGa3hjUQ==
- 
