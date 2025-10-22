@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
 
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true group-title="Knightlife Entertainment",Avinash Channel
+
+
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true group-title="Knightlife Entertainment",A&E
 
 https://tvpass.org/live/AEEast/sd
