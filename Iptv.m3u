@@ -55,4 +55,9 @@ https://v17.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8?token=5JsawIZG6PTKjS1u
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TBS.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" tvg-name="TBS", TBS
 
 https://v3.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8?token=g2N4X6c3tiT5gLCxE-_T9w&expires=1761108269&user_id=TTFQZHdwbDV6SENGdzJNb2xMTE1pcldTU1dUbE4zWGdHMHFUNGlKNQ==
+
+
+#EXTINF:-1  tvg-name="The CW (WPIX New York) SD" tvg-id="wpix-new-york-superstation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cw-ca.png?raw=true" group-title="TheTVApp",The CW
+
+https://v8.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8?token=WYjLZgiap67_CtVN4k3XDg&expires=1761112111&user_id=ZzBNY3RXcXpzekNCSHg0R0M2SGZUV3E2NUc3elNZTnJvMnZ1UmpWRw==
  
