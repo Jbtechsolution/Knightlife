@@ -6,7 +6,7 @@ https://tvpass.org/live/AEEast/sd
 
 
 
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true" group-title="Knightlife Entertainment",ABC
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true" group-title="Knightlife Entertainment",abc
 
 https://tvpass.org/live/WABCDT1/sd
 
@@ -14,7 +14,7 @@ https://tvpass.org/live/WABCDT1/sd
 
 
 
-#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" group-title="Live",AMC Eastern Feed
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" group-title="Live",AMC 
 
 https://tvpass.org/live/AMCEast/sd
 
@@ -26,13 +26,13 @@ https://tvpass.org/live/AmericanHeroesChannel/sd
 
 
 
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="Live",Animal Planet US East
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="Live",Animal Planet
 
 https://tvpass.org/live/AnimalPlanetEast/sd
 
 
 
-#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="Live",BBC America East
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="Live",BBC America 
 
 https://tvpass.org/live/BBCAmericaEast/sd
 
