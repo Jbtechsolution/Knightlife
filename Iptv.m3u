@@ -4,7 +4,7 @@ x-tvg-url="https://tvpass.org/epg.xml"
 
 
 
-#EXTINF:-1 tvg-id="653199" tvg-logo="https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==" group-title="Classic TV Shows",Avinash Iptv Network
+#EXTINF:-1 tvg-id="653199" tvg-logo="https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==" group-title="Classic TV Shows",Baywatch
 
 https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1fcc0aab891/playlist.m3u8
 
@@ -679,7 +679,7 @@ https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="99951247" tvg-name="Saved by the Bell" tvg-logo="https://image.xumo.com/v1/channels/channel/99951247/168x168.png?type=color_onBlack" group-title="Comedy",Saved by the Bell
+#EXTINF:-1 tvg-id="99951247" tvg-name="Saved by the Bell" tvg-logo="https://image.xumo.com/v1/channels/channel/99951247/168x168.png?type=color_onBlack" group-title="Classic TV Shows",Saved by the Bell
 
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951247/hls/master.m3u8?ads.xumo_channelId=99951247&ads.asnw=169843&ads.afid=380750681&ads.sfid=19316459&ads.csid=xumo_web_NBCUSavedBytheBell_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=0c9a1963-4ddc-4b6f-8569-94d724b292e8&ads._fw_vcid2=512116:0c9a1963-4ddc-4b6f-8569-94d724b292e8&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3942&ads.xumo_contentName=NBCUSavedBytheBell&ads.xumo_providerId=3942&ads.xumo_providerName=NBCUSavedBytheBell&ads.channelId=99951247&ads._fw_ifa_type=
 
