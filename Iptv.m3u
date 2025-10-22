@@ -6,7 +6,7 @@ https://tvpass.org/live/AEEast/sd
 
 
 
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true" group-title="Knightlife Entertainment",abc7
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true" group-title="Knightlife Entertainment",ABC
 
 https://tvpass.org/live/WABCDT1/sd
 
@@ -73,35 +73,95 @@ https://tvpass.org/live/BTN/sd
 
 
 #EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" group-title="Live",Bloomberg TV USA
+
 https://tvpass.org/live/BloombergTV/sd
+
+
+
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" group-title="Live",Boomerang
+
 https://tvpass.org/live/Boomerang/sd
+
+
+
 #EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="Live",Bravo USA Eastern Feed
+
 https://tvpass.org/live/BravoEast/sd
+
+
+
 #EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" group-title="Live",C-SPAN
+
 https://tvpass.org/live/CSPAN/sd
+
+
+
 #EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" group-title="Live",C-SPAN 2
+
 https://tvpass.org/live/CSPAN2/sd
-#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" group-title="Live",Cartoon Network USA Eastern Feed
+
+
+
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" group-title="Live",Cartoon Network
+
 https://tvpass.org/live/CartoonNetworkEast/sd
+
+
+
 #EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles" group-title="Live",CBS (KCBS) Los Angeles
+
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY" group-title="Live",CBS (WCBS) New York, NY
+
+
+
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY" group-title="Live",CBS
+
 https://tvpass.org/live/WCBSDT1/sd
+
+
+
 #EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA" group-title="Live",CBS Sports Network USA
+
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
+
+
+
 #EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" group-title="Live",Chicago Sports Network
+
 https://tvpass.org/live/chicago-sports-network/sd
-#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed" group-title="Live",Cinemax Eastern Feed
+
+
+
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed" group-title="Live",Cinemax
+
 https://tvpass.org/live/CinemaxEast/sd
-#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" group-title="Live",CMT US Eastern Feed
+
+
+
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" group-title="Live",CMT
+
 https://tvpass.org/live/CMTEast/sd
+
+
+
 #EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="Live",CNBC USA
+
 https://tvpass.org/live/CNBC/sd
+
+
+
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="Live",CNN US
+
 https://tvpass.org/live/CNN/sd
-#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="Live",Comedy Central (US) Eastern Feed
+
+
+
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="Live",Comedy Central
+
 https://tvpass.org/live/ComedyCentralEast/sd
+
+
+
 #EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD" group-title="Live",Crime & Investigation Network USA HD
 https://tvpass.org/live/CrimePlusInvestigation/sd
 #EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego" group-title="Live",CW (KFMB-TV2) San Diego
