@@ -8,6 +8,10 @@ x-tvg-url="https://tvpass.org/epg.xml"
 
 https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1fcc0aab891/playlist.m3u8
 
+#EXTINF:-1 tvg-id="653" tvg-logo="https://static.wikia.nocookie.net/animaniacs/images/3/3e/Classic_Pinky_and_the_Brain_Poster.jpeg/revision/latest/scale-to-width-down/1200?cb=20220216212716" group-title="Classic TV Shows"Pinky and the Brain
+
+http://lucidhosting.xyz:82/live/hal.schultz@outlook.com/MC4Ub@DdCFU/262722.m3u8
+
 
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true group-title="Knightlife Entertainment",A&E
 
