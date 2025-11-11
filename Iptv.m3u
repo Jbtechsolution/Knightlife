@@ -12,6 +12,12 @@ https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1f
 
 http://lucidhosting.xyz:82/live/hal.schultz@outlook.com/MC4Ub@DdCFU/262722.m3u8
 
+#EXTINF:-1 tvg-id="69" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3Yjg4M2ItMjZhNS00MWU3LTk3YmQtNTVkOTI4M2M5ZWJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Classic TV Shows",Martin 
+
+
+http://lucidhosting.xyz:82/live/hal.schultz@outlook.com/MC4Ub@DdCFU/262669.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true group-title="Knightlife Entertainment",A&E
 
