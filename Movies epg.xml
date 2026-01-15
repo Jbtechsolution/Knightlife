@@ -1,0 +1,13 @@
+<programme start="20260115190000 +0000" stop="20260115210000 +0000" channel="MyChannel1">
+  <title>The Great Movie Adventure</title>
+  <desc>A thrilling journey across continents with stunning visuals and a captivating story.</desc>
+  <genre>Adventure/Action</genre>
+  <rating system="MPAA">PG-13</rating>
+  <episode-num system="xmltv">1</episode-num>
+  <credits>
+    <actor>Jane Doe</actor>
+    <actor>John Smith</actor>
+    <director>Alice Wonderland</director>
+  </credits>
+  <icon src="https://example.com/posters/movie_adventure.jpg" />
+</programme>
