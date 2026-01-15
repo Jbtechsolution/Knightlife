@@ -1,9 +1,10 @@
 <tv>
-<channel id="2002">
-<display-name>UndercoverBrother</display-name>
-</channel>
- channel="ae-us-eastern-feed">
-<title>Storage Wars</title>
-<sub-title>The Monster Hash</sub-title>
-<desc>Darrell defends his turf when the buyers descend upon Costa Mesa, Calif.; Ivy Calvin comes across a unique tool; Jarrod and Brandi seek store stock.</desc>
-</programme>
+  <channel id="2002">
+    <display-name>My Movie Library</display-name>
+  </channel>
+  <programme start="20231014180000" stop="20231014200000" channel="my-movie-channel">
+    <title>Action Movie Title</title>
+    <desc lang="en">An exciting action movie description.</desc>
+    <category lang="en">Action</category>
+  </programme>
+</tv>
