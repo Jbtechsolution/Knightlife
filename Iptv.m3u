@@ -3,6 +3,11 @@
 x-tvg-url="https://tvpass.org/epg.xml"
 
 
+#EXTINF:-1 tvg-name="channel" tvg-id="epgforchannel" tvg-logo="https://domain.com/logo.png" group-title="channelgroup",channel name
+#EXTVLCOPT:http-referrer=https://domain.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
+https://domain.com/streamlink.m3u8
+
 
 #EXTINF:-1 tvg-id="653199" tvg-logo="https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==" group-title="Classic TV Shows",Baywatch
 
