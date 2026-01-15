@@ -2,8 +2,7 @@
 <channel id="Undercover Brother">
 <display-name>Undercover Brother</display-name>
 </channel>
-<programme start="20260114153000 +0000" stop="20260114160000 +0000" channel="ae-us-eastern-feed">
+<programme start="0000" stop="90000" channel="UndercoverBrother">
 <title>Storage Wars</title>
 <sub-title>Nobody's Vault but Mine</sub-title>
 <desc>Extra buyers descend upon Chatsworth, Calif., for a 100-vault auction; Mark goes in on a big group of lockers; Barry wonders if his newly acquired antiques will bring him serious cash.</desc>
-</programme>
