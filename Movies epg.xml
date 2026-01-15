@@ -1,7 +1,7 @@
 <programme start="20260115190000 +0000" stop="20260115210000 +0000" channel="MyChannel1">
-  <title>The Great Movie Adventure</title>
+  <title>UndercoverBrother</title>
   <desc>A thrilling journey across continents with stunning visuals and a captivating story.</desc>
-  <genre>Adventure/Action</genre>
+  <genre>Action/Comedy</genre>
   <rating system="MPAA">PG-13</rating>
   <episode-num system="xmltv">1</episode-num>
   <credits>
