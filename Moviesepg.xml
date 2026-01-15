@@ -1,8 +1,8 @@
 <Movies>
 <channel id="2002">
-<display-name>Undercover Brother</display-name>
+<display-name>2002</display-name>
 </channel>
-<programme start="000000" stop="900000" channel="UndercoverBrother">
+<programme start="000000" stop="900000" channel="2002">
 <title>Storage Wars</title>
 <sub-title>Nobody's Vault but Mine</sub-title>
 <desc>Extra buyers descend upon Chatsworth, Calif., for a 100-vault auction; Mark goes in on a big group of lockers; Barry wonders if his newly acquired antiques will bring him serious cash.</desc>
