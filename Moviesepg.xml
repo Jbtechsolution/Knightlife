@@ -1,12 +1,9 @@
-<title>UndercoverBrother</title>
-  <desc>A thrilling journey across continents with stunning visuals and a captivating story.</desc>
-  <genre>Action/Comedy</genre>
-  <rating system="MPAA">PG-13</rating>
-  <episode-num system="xmltv">1</episode-num>
-  <credits>
-    <actor>Jane Doe</actor>
-    <actor>John Smith</actor>
-    <director>Alice Wonderland</director>
-  </credits>
-  <icon src="https://example.com/posters/movie_adventure.jpg" />
+<tv>
+<channel id="Undercover Brother">
+<display-name>Undercover Brother</display-name>
+</channel>
+<programme start="20260114153000 +0000" stop="20260114160000 +0000" channel="ae-us-eastern-feed">
+<title>Storage Wars</title>
+<sub-title>Nobody's Vault but Mine</sub-title>
+<desc>Extra buyers descend upon Chatsworth, Calif., for a 100-vault auction; Mark goes in on a big group of lockers; Barry wonders if his newly acquired antiques will bring him serious cash.</desc>
 </programme>
