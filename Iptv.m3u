@@ -10,8 +10,8 @@ https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1f
 
 
 
-
-EXTINF:-1 tvg-id="99951412" tvg-name="Xena Warrior Princess" tvg-logo="https://image.xumo.com/v1/channels/channel/99951412/168x168.png?type=color_onBlack" group-title="Classic TV Shows",Xena Warrior Princess
+EXTINF:-1 tvg-id="99951412" 
+tvg-name="Xena Warrior Princess" tvg-logo="https://image.xumo.com/v1/channels/channel/99951412/168x168.png?type=color_onBlack" group-title="Classic TV Shows",Xena Warrior Princess
 
 https://live-content.xumo.com/4226/content/XM096AJSUMK30C/27660367/master.m3u8
 
