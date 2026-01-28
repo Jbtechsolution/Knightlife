@@ -3,11 +3,6 @@
 x-tvg-url="https://tvpass.org/epg.xml"
 
 
-#EXTINF:-1 tvg-name="channel" tvg-id="epgforchannel" tvg-logo="https://domain.com/logo.png" group-title="channelgroup",channel name
-#EXTVLCOPT:http-referrer=https://domain.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
-https://domain.com/streamlink.m3u8
-
 
 #EXTINF:-1 tvg-id="653199" tvg-logo="https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==" group-title="Classic TV Shows",Baywatch
 
@@ -15,24 +10,8 @@ https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1f
 
 
 
-#EXTINF:-1 tvg-id="699" tvg-url="https://m.imdb.com/title/tt0156182/" group-title="Movies",Wishmaster 2
 
-https://p.10015.workers.dev/dewshine74.xyz/file2/muDaeaKuFtkEbBhaEN65I~Xs7mpuK3VztaAjX5WDmh5MiFbXXcbAfeduqQ9RrP0VpZujjM0wGmC71kuEXr5APmkac4ib5JDFg1cnpwQjpzu+gFc4RuitRt5XbuUnjXbKk1fQOgkf55to5xGD5JjVG+cAocnnipXjbq0MkZm+uyU=/cGxheWxpc3QubTN1OA==.m3u8
-
-
-
-#EXTINF:-1 tvg-id="2002" tvg-url="https://raw.githubusercontent.com/Jbtechsolution/Knightlife/refs/heads/main/Moviesepg.xml" group-title="Movies",Undercover Brother
-
-https://p.10015.workers.dev/hailmist36.pro/file2/Uuw7ZadwKDoTNixtsHvdMdMNb+Qg271EaHIp2BWLPJggYTgGw0+l7tjiIOw3xmkeKWndO3ge90IfAornpv2Qj132iuijoEyutCKZ9Voo2OQUoco0dMHQGy3jAHMSgWdPvZEdApF4uTxzFbNtUVMdw4EWUVadG~sQ2D7y2gKUVtI=/cGxheWxpc3QubTN1OA==.m3u8
-
-
-#EXTINF:-1 tvg-id="69" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWePyRLSVUdCuM-0Em7OpZLkYvxJ-XqqMdf_ZIXcGEA&s=10" group-title="Movies",Escape Plan 
-
-
-https://p.10015.workers.dev/frostveil88.live/file2/Q0zLWDbuytXz8Dk+ndOZDXTZ2GHdxIhn5YPm2rT4nrBODXhuxm5EGNz0pegp~eC2AaaZ1FV3t+JqYzFAZCgcRQBBcWT7ohDNt1hBg4fU9NaDpxO99Wgr72plefp6NRiXeOOOFqOIpBW62LWmZdKy864yB9OR980+awp~rrVEorA=/cGxheWxpc3QubTN1OA==.m3u8
-
-
-EXTINF:-1 tvg-id="99951412" tvg-name="Xena Warrior Princess" tvg-logo="https://image.xumo.com/v1/channels/channel/99951412/168x168.png?type=color_onBlack" group-title="All You Can Stream Action",Xena Warrior Princess
+EXTINF:-1 tvg-id="99951412" tvg-name="Xena Warrior Princess" tvg-logo="https://image.xumo.com/v1/channels/channel/99951412/168x168.png?type=color_onBlack" group-title="Classic TV Shows",Xena Warrior Princess
 
 https://live-content.xumo.com/4226/content/XM096AJSUMK30C/27660367/master.m3u8
 
