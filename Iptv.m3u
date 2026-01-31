@@ -8,13 +8,10 @@ x-tvg-url="https://tvpass.org/epg.xml"
 
 https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1fcc0aab891/playlist.m3u8
 
+#EXTINF:-1 tvg-id="65199" tvg-logo="https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==" group-title="Classic TV Shows",hercules
 
 
-EXTINF:-1 tvg-id="99951412" 
-tvg-name="Xena Warrior Princess" tvg-logo="https://image.xumo.com/v1/channels/channel/99951412/168x168.png?type=color_onBlack" group-title="Classic TV Shows",Xena Warrior Princess
-
-https://live-content.xumo.com/4226/content/XM096AJSUMK30C/27660367/master.m3u8
-
+https://lightningbolt.site/_v27/Bw0QMQcfcHsoHhs-Kw4PfBEzDy8EH3A9EHofGwYcIRsEIxAxEwEqehARD3o.m3u8?code=KAEbeSoBBH8FMHAjKw5weBMBBz4QEQM7Bh0MPCsOJXsTGnAkKB4xJQQgcD0Qeh8bBhwhGwQjEDETASp6EBEPehMdBHwaInATEDMYMSh5fAQYHSo-Hg4QOx0NAwodDwciGiI9AyoNLnkqARMMHxEbEwQMIQAqJyEeEHgmMAQMDwUTHHACHw4YMC8kMSYTJQt8HBwtCygPHHwHeS0fBAF8EQQkDxocDngbHQ0lIx4eJRwtHgcLKHt4DwcnAyMEDHk-BBEPDi0zGwEteC17KHoPBC0lGxAdDh8oLR45OAQkPTkYERszHBEPPSszLTAceQN6ECUMcBkacCMbeiEmEx8tfSoOBDMcER8gHwx9MR15DHAZGnw9BHocfS8OIXktAQszBiBxPy0kJSITHnAzLQEAPCskH3k&hash=BB0uMQUjDHwGGn0wBx0YPAcjHA
 
 
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true group-title="Knightlife Entertainment",A&E
