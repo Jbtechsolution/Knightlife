@@ -8,7 +8,7 @@ x-tvg-url="https://tvpass.org/epg.xml"
 
 https://live-manifest.production-public.tubi.io/live/83955a5d-baa8-42a6-aa9c-e1fcc0aab891/playlist.m3u8
 
-#EXTINF:-1 tvg-id="65199" tvg-logo="https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==" group-title="Classic TV Shows",hercules
+#EXTINF:-1 tvg-id="65199" tvg-logo="https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==" group-title="Classic TV Shows",pbj otter
 
 
 https://archive.org/download/pb-j-otter-complete-series/PB%26J%20Otter%20S01E01%20Bye-Bye%2C%20PB%26J%20-%20Babbleberry%20Day.mp4
