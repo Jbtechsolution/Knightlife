@@ -4,7 +4,7 @@ x-tvg-url="https://tvpass.org/epg.xml"
 
 
 
-#EXTINF:-1 tvg-id="cozi.us" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png" group-title="Classic TV Shows",Cozi
+#EXTINF:-1 tvg-id="cozi.us" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png" group-title="Classic TV Shows",Cozi Tv
 
 
 http://mytvstream.net:8080/live/30550113/30550113/11868.m3u8
