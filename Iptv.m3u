@@ -4,10 +4,10 @@ x-tvg-url="https://tvpass.org/epg.xml"
 
 
 
-#EXTINF:-1 tvg-id="653199" tvg-logo="https://canvas-lb.tubitv.com/opts/oVhSYhUwR7Oc0w==/68173373-ff90-45ee-bf4d-d33e0f863770/CHgQeDoFMS4xLjhAAQ==" group-title="Classic TV Shows",Baywatch
+#EXTINF:-1 tvg-id="cozi.us" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png" group-title="Classic TV Shows",Cozi
 
 
-https://dbrb49pjoymg4.cloudfront.net/10001/99951133/hls/playlist.m3u8?ads.xumo_channelId=99951133&ads._fw_ifa_type=&ads._fw_did=9122ec9c-594c-454d-bcbb-21efc299c88e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FreemantleBaywatch&ads.csid=xumo_web_FreemantleBaywatch_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=3535&ads.xumo_contentName=FreemantleBaywatch&ads.xumo_providerId=3535&ads.xumo_providerName=FreemantleBaywatch&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951133&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+http://mytvstream.net:8080/live/30550113/30550113/11868.m3u8
 
 
 
