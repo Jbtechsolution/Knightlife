@@ -4,10 +4,10 @@ x-tvg-url="https://tvpass.org/epg.xml"
 
 
 
-#EXTINF:-1 tvg-id="cozi.us" tvg-logo="https://www.cozitv.com/wp-content/themes/cozi/static/images/cozilogo.png" group-title="Classic TV Shows",Cozi Tv
+#EXTINF:-1 tvg-id="willow.us" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="Classic TV Shows",Willow Cricket
 
 
-http://mytvstream.net:8080/live/30550113/30550113/11868.m3u8
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 
 
