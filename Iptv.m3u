@@ -4,7 +4,7 @@ x-tvg-url="https://tvpass.org/epg.xml"
 
 
 
-#EXTINF:-1 tvg-id="willowsports.us" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="Classic TV Shows",Willow
+#EXTINF:-1 tvg-id="willow.ca" tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="Classic TV Shows",Willow
 
 
 http://tvsen5.aynascope.net/willowhd/index.m3u8
